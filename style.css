@@ -1,0 +1,16 @@
+h1{
+  background-color: black;
+  color: rgb(10, 131, 131);
+  margin-left: 10px;
+  
+  
+}
+  .git{
+    font-size: xx-large;
+    color: blue;
+    background-color: antiquewhite;
+    padding: 20px;
+  }
+  p{
+    padding-left: 20px;
+  }
